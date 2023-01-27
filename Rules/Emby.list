@@ -19,8 +19,8 @@ DOMAIN,emby.ytoo.li
 # > 流媒体emby-w8ves服务器
 DOMAIN,embyserver.ga
 
-# > 流媒体emby-prpr服务器
-DOMAIN,emby.prprcloud.com
+# > 流媒体misty服务器
+DOMAIN,misty.ltd
 
 # > 流媒体hxd_emby_DE服务器
 DOMAIN,embysg.222921.xyz
